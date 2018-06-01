@@ -37,7 +37,7 @@ I {{producer}} agree not to manipulate the contents of blocks in order to derive
 1. the order in which transactions are included
 2. the hash of the block that is produced
 
-I, {{producer}}, hereby agree to disclose and attest under penalty of perjury all ultimate beneficial owners of my company who own more than 1%.
+I, {{producer}}, hereby agree to disclose and attest under penalty of perjury all ultimate beneficial owners of my company who own more than 10% and all direct shareholders.
 
 I, {{producer}}, hereby agree to cooperate with other block producers to carry out our respective and mutual obligations under this agreement, including but not limited to maintaining network stability and a valid blockchain.
 
@@ -52,9 +52,3 @@ I, {{producer}}, agree not to produce blocks before my scheduled time unless I h
 I, {{producer}}, agree not to publish blocks with timestamps more than 500ms in the future unless the prior block is more than 75% full by either CPU or network bandwidth metrics.
 
 I, {{producer}}, agree not to set the RAM supply to more RAM than my nodes contain and to resign if I am unable to provide the RAM approved by 2/3+ producers, as shown in the system parameters.
-
-## Constitution
-
-This agreement incorporates the current blockchain constitution:
-
-{{constitution}}
